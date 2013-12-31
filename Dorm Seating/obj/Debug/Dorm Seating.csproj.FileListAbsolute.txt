@@ -1,0 +1,9 @@
+\\kermit\users\wilkibr\visual studio 2012\Projects\Dorm Seating\Dorm Seating\bin\Debug\Dorm Seating.exe.config
+\\kermit\users\wilkibr\visual studio 2012\Projects\Dorm Seating\Dorm Seating\bin\Debug\Dorm Seating.exe
+\\kermit\users\wilkibr\visual studio 2012\Projects\Dorm Seating\Dorm Seating\bin\Debug\Dorm Seating.pdb
+\\kermit\users\wilkibr\visual studio 2012\Projects\Dorm Seating\Dorm Seating\obj\Debug\Dorm Seating.csprojResolveAssemblyReference.cache
+\\kermit\users\wilkibr\visual studio 2012\Projects\Dorm Seating\Dorm Seating\obj\Debug\Dorm_Seating.Form1.resources
+\\kermit\users\wilkibr\visual studio 2012\Projects\Dorm Seating\Dorm Seating\obj\Debug\Dorm_Seating.Properties.Resources.resources
+\\kermit\users\wilkibr\visual studio 2012\Projects\Dorm Seating\Dorm Seating\obj\Debug\Dorm Seating.csproj.GenerateResource.Cache
+\\kermit\users\wilkibr\visual studio 2012\Projects\Dorm Seating\Dorm Seating\obj\Debug\Dorm Seating.exe
+\\kermit\users\wilkibr\visual studio 2012\Projects\Dorm Seating\Dorm Seating\obj\Debug\Dorm Seating.pdb

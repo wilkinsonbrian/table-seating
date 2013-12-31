@@ -1,0 +1,13 @@
+\\kermit\users\wilkibr\Visual Studio 2012\Projects\Dorm Seating\Dorm Seating\bin\Release\Dorm Seating.exe.config
+\\kermit\users\wilkibr\Visual Studio 2012\Projects\Dorm Seating\Dorm Seating\bin\Release\Dorm Seating.exe
+\\kermit\users\wilkibr\Visual Studio 2012\Projects\Dorm Seating\Dorm Seating\bin\Release\Dorm Seating.pdb
+\\kermit\users\wilkibr\Visual Studio 2012\Projects\Dorm Seating\Dorm Seating\obj\Release\Dorm_Seating.Form1.resources
+\\kermit\users\wilkibr\Visual Studio 2012\Projects\Dorm Seating\Dorm Seating\obj\Release\Dorm_Seating.Properties.Resources.resources
+\\kermit\users\wilkibr\Visual Studio 2012\Projects\Dorm Seating\Dorm Seating\obj\Release\Dorm Seating.csproj.GenerateResource.Cache
+\\kermit\users\wilkibr\Visual Studio 2012\Projects\Dorm Seating\Dorm Seating\obj\Release\Dorm Seating.exe
+\\kermit\users\wilkibr\Visual Studio 2012\Projects\Dorm Seating\Dorm Seating\obj\Release\Dorm Seating.pdb
+\\kermit\users\wilkibr\Visual Studio 2012\Projects\Dorm Seating\Dorm Seating\bin\Release\Dorm Seating.exe.manifest
+\\kermit\users\wilkibr\Visual Studio 2012\Projects\Dorm Seating\Dorm Seating\bin\Release\Dorm Seating.application
+\\kermit\users\wilkibr\Visual Studio 2012\Projects\Dorm Seating\Dorm Seating\obj\Release\Dorm Seating.csprojResolveAssemblyReference.cache
+\\kermit\users\wilkibr\Visual Studio 2012\Projects\Dorm Seating\Dorm Seating\obj\Release\Dorm Seating.exe.manifest
+\\kermit\users\wilkibr\Visual Studio 2012\Projects\Dorm Seating\Dorm Seating\obj\Release\Dorm Seating.application
